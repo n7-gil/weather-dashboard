@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: underline;
+    background-color: blue;
+    color: white;
+}
+
+body {
+    text-align: center;
+}
+
+#searchCity {
+    text-align: left;
+    margin: 5px;
+    padding: 20px;   
+}
+
+.search {
+    font-size: 15px;
+}
+
+.selectedCity {
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+h2 {
+    font-size: 30px;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+.cityDate {
+    font-size: 25px;
+}
+
+.forecastCards {
+    display: inline-table;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+.card-body {
+    background-color: purple;
+
+}
