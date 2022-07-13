@@ -1,1 +1,3 @@
 # weather-dashboard
+
+The purpose of this challenge was to create a fully functional website that gives users inormation about the weather from the city they searched in. The website gathers its data from the api: https://openweathermap.org/api/. Features from the website include a search bar to search for cities, a list that provides the user with previously searched citites, current weather from the city, and a future 5 day forecast.
